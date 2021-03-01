@@ -1,0 +1,4 @@
+<svg>
+  <rect id="background" />
+  <image id="clockFace" href="core.png" />
+</svg>
